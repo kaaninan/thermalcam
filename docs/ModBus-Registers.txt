@@ -1,0 +1,33 @@
+01: Type
+02: Rev
+03: Serial No1
+04: Serial No2
+05: Hardware Rev
+06: Firmware Ver
+08: Led Control, (0 = Auto, 1 Dim Red, 2 Dim Green, 3 Dim Blue, 4 Dim White, 5 Red, 6 Green, 7 Blue, 8 White, 9 Fl. Red, 10 Fl. Green, 11 Fl. Blue, 12 Fl. White)  
+09: Led R
+10: LED G
+11: LED B
+12: LED W
+
+14: Supply Voltage
+
+20 Sound Freq 1
+21 Sound Level 1
+22 Sound Freq 2
+23 Sound Level 2
+24 Sound Freq 3
+25 Sound Level 3
+26 Sound Freq 4
+27 Sound Level 4
+28 Sound Freq 5
+29 Sound Level 5
+
+
+30 Distance
+31 Distance Reading Mode
+
+40 Temperature
+41 Humidity
+42 Pressure
+43 Gas
